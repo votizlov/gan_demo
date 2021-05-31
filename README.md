@@ -1,2 +1,1 @@
-# ganlab
-GAN Lab
+# Cource project
